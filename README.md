@@ -1,4 +1,4 @@
-# web-dev-tutorial
+# web-dev-hackathon
 # UNC Basketball Quiz
 
 # A quiz about UNC Basketball trivia that gives you a score based on questions answered correctly and a fan rating based on score.
